@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
+👋 Ciao, sono Marco
 
-<!--
-**marcopiras977-bit/marcopiras977-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Sto studiando Python e Data Analysis.
 
-Here are some ideas to get you started:
+💻 Competenze
+- Python
+- Pandas
+- Git
+- GitHub
+- Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Repository principali
+
+📂 Python Lessons and Exercises
+
+🎯 Obiettivo
+Costruire competenze pratiche nello sviluppo software e nell'analisi dei dati.
+
+📫 LinkedIn
