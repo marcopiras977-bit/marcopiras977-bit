@@ -28,4 +28,4 @@ Hi there 👋
 🎯 Obiettivo
 Costruire competenze pratiche nello sviluppo software e nell'analisi dei dati.
 
-📫 LinkedIn
+📫 LinkedIn -> https://www.linkedin.com/in/marco-piras-661459142/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bfp7t0kccRL%2BfoSIMNRzyIA%3D%3D
